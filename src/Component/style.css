@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Kaushan+Script&family=Send+Flowers&display=swap");
+.header-h1 {
+  color: antiquewhite;
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  border-style: solid;
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
+.container-banner {
+  background-color: #f1f1f1;
+  text-align: center;
+  border-style: hidden;
+  border-radius: 15px;
+  font-family: "Ruda", sans-serif;
+}
+
+h2 {
+  font-size: 32px;
+  text-shadow: -1px -1px #0c0, 1px 1px #060, -3px 0 4px rgb(79, 33, 33);
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(50, 57, 10);
+  padding: 16px;
+  font-weight: lighter;
+  text-align: center;
+  display: block;
+  margin: 16px;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.address {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+p {
+  font-family: "Dancing Script", cursive;
+  font-size: 20px;
+}
